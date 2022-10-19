@@ -1,0 +1,18 @@
+## kate-user 6.0.1 MMB29M 9.3.28 release-keys
+- Manufacturer: xiaomi
+- Platform: msm8952
+- Codename: kate
+- Brand: Xiaomi
+- Flavor: kate-user
+- Release Version: 6.0.1
+- Id: MMB29M
+- Incremental: 9.3.28
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 480
+- Fingerprint: Xiaomi/kate/kate:6.0.1/MMB29M/9.3.28:user/release-keys
+- OTA version: 
+- Branch: kate-user-6.0.1-MMB29M-9.3.28-release-keys
+- Repo: xiaomi_kate_dump
